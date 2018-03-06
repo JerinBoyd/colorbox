@@ -5,11 +5,17 @@ import 'bootstrap/dist/css/bootstrap.css/';
 class App extends Component {
   render() {
     return (
+      <div>
+        <section className="border"> </section>
       <div className="App">
-        Hello
+       
+      <input type="color"/>
     
         
       </div>
+       
+       </div>
+       
     );
   }
 }
