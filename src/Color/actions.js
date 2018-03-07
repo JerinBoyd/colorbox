@@ -1,5 +1,9 @@
 import * as types from './types';
 
 export const changeColor = (color) => ({
-    type: types.CHANGE_COLOR
-});
+    type: types.CHANGE_COLOR,
+    payload: {
+        value: color
+
+}});
+

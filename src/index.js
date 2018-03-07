@@ -7,14 +7,12 @@ import registerServiceWorker from './registerServiceWorker';
 
 //import provider
 
-import { provider } from 'react-redux';
+import { Provider } from 'react-redux';
 // import store
 
-import { store } from './store'
+import  store  from './store';
 
-//wrap app with provider
 
-// pass store to provider
 
 
 
