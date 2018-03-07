@@ -1,7 +1,10 @@
-.border {
-  border-style: solid;
-  height: 10rem;
-  width: 10rem;
+.borderstyle {
+  border: 1rem solid black;
+  height: 20rem;
+  width: 20rem;
+}
 
-  
+.center {
+  margin: 20rem;
+  padding-left: 15rem;
 }
